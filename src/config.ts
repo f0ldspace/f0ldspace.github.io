@@ -52,7 +52,7 @@ export const SOCIALS: SocialObjects = [
     active: true,
   },
 ];
-/*
+
 export const GISCUS: GiscusProps = {
   repo: "theapache64/theapache64.github.io",
   repoId: "R_kgDOMiH9Cw",
@@ -65,4 +65,3 @@ export const GISCUS: GiscusProps = {
   lang: "en",
   loading: "lazy",
   };
-  */
